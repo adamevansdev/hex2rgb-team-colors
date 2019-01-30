@@ -1,5 +1,5 @@
 # Hex Team Color Codes to RGB
-A simple python script to convert Hex color codes into RGB. It's what I used on https://usteamcolors.com to get the RGB values for the team color codes.
+A simple python script to convert Hex color codes into RGB. It's what I used on [https://usteamcolors.com](https://usteamcolors.com) to get the RGB values for the team color codes.
 
 ## Usage
 This is a very simple function that will take a Hex color code as parameter and will return the corresponding RGB values, each separated by a space.
